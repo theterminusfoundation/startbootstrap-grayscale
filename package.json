@@ -1,11 +1,11 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Terminus Foundation Website",
+    "name": "website",
     "version": "5.0.6",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "The Terminus Foundation website",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,21 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://github.com/theterminusfoundation/website",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/theterminusfoundation/website/issues",
+        "email": "raffaele@terminusfoundation.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Terminus Foundation",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Vincenzo Di Nicola",
+        "Raffaele Nicodemo",
+        "Calogero Mandracchia"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/theterminusfoundation/website.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
